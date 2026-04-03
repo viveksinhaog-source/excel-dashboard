@@ -35,4 +35,4 @@ Highest selling category?
 
 Percentage of Total Orders delivered
 
-!(dashboard)(https://github.com/viveksinhaog-source/excel-dashboard/blob/main/Screenshot%202026-04-03%20113022.png)
+![dashboard preview](https://github.com/viveksinhaog-source/excel-dashboard/blob/main/Screenshot%202026-04-03%20113022.png)
